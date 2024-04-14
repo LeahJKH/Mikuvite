@@ -1,18 +1,43 @@
 .headerFull {
+    background-color: rgb(28, 41, 87);
+    width: 100vw;
+    height: 89px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 
 }
     .headerPageSect {
-
+        display: flex;
+        flex-direction: row;
+        margin: 20px;
     }
         .headerImg {
-
+            height: 75px;
+            width: 75px;
         }
         .headerTxt {
-
+            color: rgb(101, 192, 192);
+            text-shadow: -3px -1px 1px rgb(50, 93, 109);
+            font-size: 60px;
+            margin: 0;
         }
     .headerBtnSect {
-
+        margin: 20px;
     }
         .headerBtn {
-            
+            background-color: rgb(28, 41, 87);
+            border: 2px solid rgb(225, 225, 225);
+            width: 100px;
+            height: 28px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-transform: uppercase;
+            color: rgb(255, 255, 255);
+            border-radius: 19px;
+            box-shadow: -1px -1px 1px rgb(9, 9, 9);
+            margin-right: 7px;
+        }
+        .headerBtn:hover {
+            background-color: rgb(21, 30, 64);
+            cursor: pointer;
         }
