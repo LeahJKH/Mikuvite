@@ -1,4 +1,5 @@
-import Styles from "./Footer.css"
+import Styles from "./Footer.module.css"
+
 export default function Footer() {
     return (
         <>
@@ -17,7 +18,7 @@ export default function Footer() {
 
             <div className={Styles.infoBar}>
                 <p className={Styles.infoText}>copyright 2026</p>
-                <p className={Styles.InfoText}>this site is satirical</p>
+                <p className={Styles.infoText}>this site is satirical</p>
             </div>
         </footer>
         </>
