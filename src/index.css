@@ -10,6 +10,8 @@ body {
   line-height: 1.5;
   font-weight: 400;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  overflow-x: hidden;
   
 }
 
