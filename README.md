@@ -1,3 +1,7 @@
+# !DISCLAIMER!
+anything said on this site might not be 100% true and should be taken with a grain of salt
+# !DISCLAIMER!
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
