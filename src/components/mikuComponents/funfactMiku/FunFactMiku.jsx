@@ -1,8 +1,9 @@
 import { useState, useEffect } from "react";
-``
+
 export default function FunFactMiku() {
     const [facts, setFacts] = useState([]);
     const url = "https://leahjkh.github.io/mikuviteInfo/json/FunFactsMiku.json";
+    
     useEffect(() => {
         const fetchData = async () => {
             try {

@@ -4,14 +4,14 @@ export default function Header() {
         <>
         <header className={Style.headerFull}>
             <div className={Style.headerPageSect}>
-                <img src="" alt="" className={Style.headerImg}/>
+                <img src="https://leahjkh.github.io/mikuviteInfo/images/TransP/tp2.webp" alt="" className={Style.headerImg}/>
                 <h1 className={Style.headerTxt}>Miku</h1>
             </div>
 
             <div className={Style.headerBtnSect}>
                 <button href="#" className={Style.headerBtn}>info</button>
                 <button href="#" className={Style.headerBtn}>pictures</button>
-                <button href="#" className={Style.headerBtn}>timeline</button>
+                <button href="/timeline" className={Style.headerBtn}><a href="/timeline">timeline</a></button>
             </div>
         </header>
         </>
