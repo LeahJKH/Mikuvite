@@ -1,7 +1,7 @@
 import { Routes, Route, BrowserRouter } from 'react-router-dom';
-import Home from './components/pages/Home/Home';
-import LayoutBase from './components/pages/layout/LayoutBase';
-import Timeline from './components/pages/timeline/Timeline';
+import Home from './pages/Home/Home';
+import LayoutBase from './pages/layout/LayoutBase';
+import Timeline from './pages/timeline/Timeline';
 
 import './App.css';
 

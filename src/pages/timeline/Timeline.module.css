@@ -1,0 +1,18 @@
+.mikuLine {
+    width: 80vw;
+    text-align: center;
+    margin: 20px auto;
+    height: 300px;
+    overflow-x: scroll;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.MikuContEven {
+    width: 150px;
+    height: 300px;
+    gap: 30px;
+    
+}

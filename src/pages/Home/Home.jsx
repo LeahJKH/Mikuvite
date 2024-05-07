@@ -1,5 +1,5 @@
 
-import FunFactMiku from "../../mikuComponents/funfactMiku/FunFactMiku"
+import FunFactMiku from "../../components/mikuComponents/funfactMiku/FunFactMiku.jsx"
 
 
 
@@ -9,9 +9,6 @@ export default function Home() {
     <>
     <h1>work</h1>
       <FunFactMiku></FunFactMiku>
-      
-    
-
     </>
   )
 }
