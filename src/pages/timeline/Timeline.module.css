@@ -2,17 +2,17 @@
     width: 80vw;
     text-align: center;
     margin: 20px auto;
-    height: 300px;
+    height: 350px;
     overflow-x: scroll;
+    overflow-y: hidden;
     display: flex;
     justify-content: center;
     align-items: center;
-
+    padding: 20px;
 }
 
 .MikuContEven {
-    width: 150px;
-    height: 300px;
-    gap: 30px;
-    
+    min-width: 125px;
+    height: 250px; 
+  
 }
