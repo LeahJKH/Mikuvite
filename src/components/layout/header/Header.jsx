@@ -4,7 +4,7 @@ export default function Header() {
         <>
         <header className={Style.headerFull}>
             <div className={Style.headerPageSect}>
-                <img src="https://leahjkh.github.io/mikuviteInfo/images/TransP/tp2.webp" alt="" className={Style.headerImg}/>
+                <img src="https://leahjkh.github.io/MikuApiGithub/images/TransP/tp3.webp" alt="" className={Style.headerImg}/>
                 <h1 className={Style.headerTxt}>Miku</h1>
             </div>
 

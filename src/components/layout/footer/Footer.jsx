@@ -7,7 +7,7 @@ export default function Footer() {
             <div className={Styles.emailBar}>
                 <input type="text" name="email-field" id="emailField" placeholder="Enter Email" className={Styles.emailFieldStyling}/>
                 <p className={Styles.notSoTrueInfo}>the rights too this website is owned by me and miku as we are married</p>
-                <img src="https://leahjkh.github.io/mikuviteInfo/images/TransP/tp2.webp" alt="" className={Styles.logoImg}/>
+                <img src="https://leahjkh.github.io/MikuApiGithub/images/TransP/tp3.webp" alt="" className={Styles.logoImg}/>
             </div>
 
             <div className={Styles.linkBar}>
